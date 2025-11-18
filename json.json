@@ -1,0 +1,34 @@
+@startjson
+<style>
+.h1 {
+    BackgroundColor red
+}
+
+
+</style>
+#highlight "Nombre" <<h1>>
+
+
+
+{
+"Nombre": "Juan Pérez",
+"edad ": "03jfje",
+"city": "madrid",
+"redes sociales":{
+    "instragram": {
+        "usuario": "juanitoxd",
+        "contraseña": "123325"
+    },
+    "facebook": {
+        "usuario": "juan.perez",
+        "contraseña": "qwerty"
+
+}
+
+
+}
+}
+
+
+
+@endjson
