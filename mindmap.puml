@@ -1,0 +1,46 @@
+@startmindmap
+<style>
+mindmapDiagram{
+    .front*{
+        BackgroundColor lightgreen
+    }
+    .javascript*{
+        BackgroundColor lightyellow
+
+    }
+    .backend*{
+        BackgroundColor lightblue
+
+    }
+    .database*{
+        BackgroundColor lightcoral
+
+}
+}
+</style>
+
+
+* Aprender programación
+
+++ Frontend <<front>>
++++ HTML
++++ CSS
+++ javascript <<javascript>>
++++ Variables y tipos de datos
++++ Funciones
++++ DOM
+-- Backend <<backend>>
+--- Node.js
+--- Express.js
+-- Bases de datos <<database>>
+--- SQL
+--- NoSQL
+
+
+
+
+
+
+
+
+@endmindmap
