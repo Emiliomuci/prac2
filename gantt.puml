@@ -1,0 +1,17 @@
+@startgantt
+Printscale daily
+Project starts at 2025-11-01
+
+-- fase 1 --
+[analisis] lasts 1 day
+[b] lasts 3 days and starts at [analisis]'s end
+[c] happens at [b]'s end
+
+-- fase 2 --
+[d] lasts 7 days and starts at [c]'s end
+[d] is colored in green
+[d] is 10% completed
+
+
+
+@endgantt
